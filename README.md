@@ -23,4 +23,4 @@
 
 ## 更多
 
-这里只是展示了比较好或比较有深度的，，完整的文章列表[点这里](https://www.jianshu.com/u/c4a1ed8dd459)
+这里只是展示了比较好或比较有深度的，完整的文章列表[点这里](https://www.jianshu.com/u/c4a1ed8dd459)
