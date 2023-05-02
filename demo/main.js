@@ -1,1 +1,1 @@
-require('./vue编译器原理/index')()
+require('./vue/vue编译器原理/index')()
