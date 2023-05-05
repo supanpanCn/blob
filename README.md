@@ -14,6 +14,7 @@
 - [localStorage新玩法](md/localStorage%E6%96%B0%E7%8E%A9%E6%B3%95.md)
 ### vue3
 - [vue编译器原理](md/vue%E7%BC%96%E8%AF%91%E5%99%A8%E5%8E%9F%E7%90%86.md)
+- [这么卷的2023，你还搞不懂vue响应式？](md/%E8%BF%99%E4%B9%88%E5%8D%B7%E7%9A%842023%EF%BC%8C%E4%BD%A0%E8%BF%98%E6%90%9E%E4%B8%8D%E6%87%82vue%E5%93%8D%E5%BA%94%E5%BC%8F%E5%90%97.md)
 
 ## vite
 
@@ -23,7 +24,7 @@
 - [never类型的N种常用场景](md/never%E7%B1%BB%E5%9E%8B%E7%9A%84N%E7%A7%8D%E5%B8%B8%E7%94%A8%E5%9C%BA%E6%99%AF.md)
 - [interface与type的异同点](md/interface%E4%B8%8Etype%E7%9A%84%E5%BC%82%E5%90%8C%E7%82%B9.md)
 
-### 杂谈
+### other
 
 
 ## [更多](https://www.jianshu.com/u/c4a1ed8dd459)
