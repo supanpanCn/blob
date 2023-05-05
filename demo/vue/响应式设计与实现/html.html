@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>vue响应式设计与实现</title>
+  </head>
+  <body>
+    <div>
+      <span>张三</span>
+      <span>李四</span>
+      <span>王五</span>
+    </div>
+    <!-- 副作用函数 -->
+    <script>
+      const person = {
+        name: "sp",
+        age: 28,
+      };
+      function effect() {
+        document.body.innerText = person.name;
+      }
+    </script>
+    <!-- 什么是响应式  -->
+    <script>
+        const elementDiv = document.getElementsByTagName('div')[0]
+        if(elementDiv){
+            elementDiv.addEventListener('click',(e)=>{
+                if(e.target.nodeName === 'SPAN'){
+                    person.name = e.target.innerText
+                    // effect()
+                }
+            })
+        }
+    </script>
+    <!-- 基础实现 -->
+    <script>
+        const bucket = new Set()
+        new Proxy(person,{
+            get(target,key){
+                bucket.add(effect)
+                return target[key]
+            },
+            set(target,key,value){
+                bucket.forEach(v=>v())
+                target[key] = value
+                return true
+            }
+        })
+    </script>
+  </body>
+</html>
