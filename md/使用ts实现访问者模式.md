@@ -1,4 +1,4 @@
-大家好，我是爱水文的苏先生，一名从业5年的前端爱好者，致力于用最通俗的文字分享前端知识的酸菜鱼
+大家好，我是爱水文的苏先生，一名从业5年+的前端爱好者，致力于用最通俗的文字分享前端知识的酸菜鱼
 
 ## 角色分类
 在js版本的[访问者模式](https://www.jianshu.com/p/ee3992b37e0a?utm_campaign=hugo&utm_medium=reader_share&utm_content=note&utm_source=weixin-friends)中，我们将角色分为了访问者、元素和集合，实际上，完整的角色分类应该类似下面这样：
