@@ -44,7 +44,7 @@ function trigger(target, key, type){
       const effects = reactiveObj.get(key) || new Set();
       const t = new Set(effects); // 遍历阶段添加的成员会被forEach访问
 
-      // 当为新增时，取出UNI_KEY_FOR_IN，兼容for...in
+      // 当为新增或删除时，取出UNI_KEY_FOR_IN，兼容for...in
       if(type === 'add' || type === 'delete'){
         const forInEffects = reactiveObj.get(UNI_KEY_FOR_IN) || new Set()
         forInEffects.forEach(v=>t.add(v))
