@@ -12,7 +12,7 @@
 ### npm包
 
 - [localStorage新玩法](md/localStorage%E6%96%B0%E7%8E%A9%E6%B3%95.md)
-- [npm包插件化方案设计与实现](https://juejin.cn/editor/drafts/7237489935901327416)
+- [npm包插件化方案设计与实现](md/npm%E5%8C%85%E6%8F%92%E4%BB%B6%E5%8C%96%E6%96%B9%E6%A1%88%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0.md)
 ### vue3
 - [diff算法核心原理精讲](md/diff%E7%AE%97%E6%B3%95%E6%A0%B8%E5%BF%83%E5%8E%9F%E7%90%86%E7%B2%BE%E8%AE%B2.md)
 - [vue编译器原理](md/vue%E7%BC%96%E8%AF%91%E5%99%A8%E5%8E%9F%E7%90%86.md)
