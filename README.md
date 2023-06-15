@@ -29,6 +29,10 @@
 - [never类型的N种常用场景](md/never%E7%B1%BB%E5%9E%8B%E7%9A%84N%E7%A7%8D%E5%B8%B8%E7%94%A8%E5%9C%BA%E6%99%AF.md)
 - [interface与type的异同点](md/interface%E4%B8%8Etype%E7%9A%84%E5%BC%82%E5%90%8C%E7%82%B9.md)
 - [手写十二个TypeScript内置工具类型](md/%E6%89%8B%E5%86%99%E5%8D%81%E4%BA%8C%E4%B8%AATypeScript%E5%86%85%E7%BD%AE%E5%B7%A5%E5%85%B7%E7%B1%BB%E5%9E%8B.md)
+- [TypeScript类型体操--Merge、Diff、Flip](md/TypeScript%E7%B1%BB%E5%9E%8B%E4%BD%93%E6%93%8D--Merge%E3%80%81Diff%E3%80%81Flip.md)
+- [TypeScript中的satisfies操作符应该怎么玩儿？](md/TypeScript%E4%B8%AD%E7%9A%84satisfies%E6%93%8D%E4%BD%9C%E7%AC%A6%E5%BA%94%E8%AF%A5%E6%80%8E%E4%B9%88%E7%8E%A9%E5%84%BF%EF%BC%9F.md)
+- [TypeScript类型体操--数组攻略（上）](md/TypeScript%E7%B1%BB%E5%9E%8B%E4%BD%93%E6%93%8D--%E6%95%B0%E7%BB%84%E6%94%BB%E7%95%A5%EF%BC%88%E4%B8%8A%EF%BC%89.md)
+- [TypeScript类型体操--数组攻略（中）](md/TypeScript%E7%B1%BB%E5%9E%8B%E4%BD%93%E6%93%8D--%E6%95%B0%E7%BB%84%E6%94%BB%E7%95%A5%EF%BC%88%E4%B8%AD%EF%BC%89.md)
 
 ### other
 
