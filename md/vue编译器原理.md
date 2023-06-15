@@ -1,4 +1,4 @@
-大家好，我是爱水文的苏先生，一名从业5年+的前端爱好者，致力于用最通俗的文字分享前端知识的酸菜鱼
+大家好，我是苏先生，一名热爱钻研、乐于分享的前端工程师，跟大家分享一句我很喜欢的话：人活着，其实就是一种心态，你若觉得快乐，幸福便无处不在
 
 ## 什么是DSL
 
@@ -720,8 +720,11 @@ function genArrayExpression(node,ctx) {
 
 ![代码生成](https://upload-images.jianshu.io/upload_images/22517122-0fdcaba8c5321668.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+***
 
+如果本文对您有用，希望能得到您的star
 
+***
 
 
 

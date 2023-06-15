@@ -1,4 +1,4 @@
-大家好，我是爱水文的苏先生，一名从业5年+的前端爱好者，致力于用最通俗的文字分享前端知识的酸菜鱼
+大家好，我是苏先生，一名热爱钻研、乐于分享的前端工程师，跟大家分享一句我很喜欢的话：人活着，其实就是一种心态，你若觉得快乐，幸福便无处不在
 
 ## 前言
 
@@ -288,3 +288,9 @@ type ReturnType<T extends (...args: any) => any> = T extends (...args: any) => i
 ```ts
 type ThisParameterType<T extends (this:any,...args: any) => any> = T extends (this infer S,...args: any) => infer S ? S : any;
 ```
+
+***
+
+如果本文对您有用，希望能得到您的star
+
+***
